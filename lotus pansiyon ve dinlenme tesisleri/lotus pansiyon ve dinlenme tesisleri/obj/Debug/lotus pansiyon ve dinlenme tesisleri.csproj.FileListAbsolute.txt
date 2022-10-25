@@ -1,0 +1,12 @@
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\bin\Debug\lotus pansiyon ve dinlenme tesisleri.exe.config
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\bin\Debug\lotus pansiyon ve dinlenme tesisleri.exe
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\bin\Debug\lotus pansiyon ve dinlenme tesisleri.pdb
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus pansiyon ve dinlenme tesisleri.csprojAssemblyReference.cache
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus_pansiyon_ve_dinlenme_tesisleri.Form1.resources
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus_pansiyon_ve_dinlenme_tesisleri.Properties.Resources.resources
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus pansiyon ve dinlenme tesisleri.csproj.GenerateResource.cache
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus pansiyon ve dinlenme tesisleri.csproj.CoreCompileInputs.cache
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus pansiyon ve dinlenme tesisleri.exe
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus pansiyon ve dinlenme tesisleri.pdb
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus_pansiyon_ve_dinlenme_tesisleri.Frmsifreguncelle.resources
+C:\Users\melda\source\repos\lotus pansiyon ve dinlenme tesisleri\lotus pansiyon ve dinlenme tesisleri\obj\Debug\lotus_pansiyon_ve_dinlenme_tesisleri.Doğrulama.resources
